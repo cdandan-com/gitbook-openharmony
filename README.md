@@ -6,7 +6,7 @@ description: 主题：openharmony相关
 
 分享openharmony开发相关的知识。
 
-日益积累，为开源社区做出微薄之力。
+日益积累，为openharmony发展做出微薄之力。
 
 
 
@@ -34,5 +34,5 @@ sig组织：[https://gitee.com/openharmony-sig](https://gitee.com/openharmony-si
 
 邮箱：xuxiaoyuan@zhikaihong.com
 
-经历：openharmony社区子系统共建人员
+简介：openharmony社区子系统共建人员
 
