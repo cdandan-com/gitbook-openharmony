@@ -7,7 +7,7 @@
 * [01-如何学习openharmony？](01-ru-he-xue-xi-openharmony.md)
 * [02-开发环境搭建篇](02-kai-fa-huan-jing-da-jian-pian.md)
 * [03-开发工具篇](03-kai-fa-gong-ju-pian.md)
-* [04-openharmony架构篇](04openharmony-jia-gou-pian.md)
+* [04-架构篇](04-jia-gou-pian.md)
 * [05-源码结构篇](05-yuan-ma-jie-gou-pian.md)
 * [06-native篇](06native-pian.md)
 * [07-NAPI篇](07napi-pian.md)
