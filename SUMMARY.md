@@ -25,3 +25,4 @@
 * [19-内核子系统](19-nei-he-zi-xi-tong.md)
 * [20-DFX子系统](20dfx-zi-xi-tong.md)
 * [21-XTS子系统](21xts-zi-xi-tong.md)
+* [22-OTA升级子系统](22ota-sheng-ji-zi-xi-tong.md)
