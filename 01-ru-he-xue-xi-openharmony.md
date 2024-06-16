@@ -22,7 +22,7 @@ description: openharmony操作系统
 
 {% embed url="https://docs.openharmony.cn/pages/v4.1/zh-cn/application-dev/application-dev-guide.md" %}
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 设备系统层面
 
@@ -30,7 +30,7 @@ description: openharmony操作系统
 
 [https://docs.openharmony.cn/pages/v4.1/zh-cn/device-dev/device-dev-guide.md](https://docs.openharmony.cn/pages/v4.1/zh-cn/device-dev/device-dev-guide.md)
 
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 如何学习？
 
@@ -44,7 +44,7 @@ description: openharmony操作系统
 
 第一步，还是回到架构，看文档是细则，但是没有对架构清晰的认知还是，还是不知道学哪里，哪里适合自己入手，进一步的入门，进阶，熟练，变成对应体系的专家。
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 调度逻辑由上而下，所以学习的路径也是由上而下，一个链路搞懂以后，之后所有的平行模块都是一个设计思想，区别的是不同模块业务并不相同，彻底搞懂一条线，逐步再扩展到整个面。
 
@@ -52,7 +52,7 @@ description: openharmony操作系统
 
 架构图
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 关键字：NAPI
 
@@ -68,7 +68,7 @@ NAPI适合封装IO、CPU密集型、OS底层等能力并对外暴露JS接口，�
 
 架构图
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 samgr组件是OpenHarmony的核心组件，提供OpenHarmony系统服务启动、注册、查询等功能。
 
@@ -80,13 +80,13 @@ samgr组件是OpenHarmony的核心组件，提供OpenHarmony系统服务启动�
 
 框架图
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 驱动子系统采用C面向对象编程模型构建，通过平台解耦、内核解耦，兼容不同内核，提供了归一化的驱动平台底座，旨在为开发者提供更精准、更高效的开发环境，力求做到一次开发，多系统部署。
 
 交互流程
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 详细展开，后续章节会单独描述。
 
