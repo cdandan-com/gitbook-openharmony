@@ -23,3 +23,65 @@ AKI (Alpha Kernel Interacting) 是一款边界性编程体验友好的ArkTs FFI�
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+## 使用
+
+非常简易的使用
+
+CMakeLists.txt定义
+
+```cmake
+# the minimum version of CMake.
+cmake_minimum_required(VERSION 3.4.1)
+project(aki_demo)
+
+set(NATIVERENDER_ROOT_PATH ${CMAKE_CURRENT_SOURCE_DIR})
+
+include_directories(${NATIVERENDER_ROOT_PATH}
+                    ${NATIVERENDER_ROOT_PATH}/include)
+
+# 本例直接使用根目录源码作为依赖，实际工程使用时，需要`clone`源码到指定路径
+set(NATIVERENDER_ROOT_PATH ${CMAKE_CURRENT_SOURCE_DIR}/../../../../aki/)
+
+add_library(entry SHARED hello.cpp)
+
+add_subdirectory(${NATIVERENDER_ROOT_PATH} aki)
+
+target_link_libraries(entry PUBLIC
+    aki_jsbind)
+```
+
+样例cpp
+
+```cpp
+#include <string>
+#include <aki/jsbind.h>
+
+std::string SayHello(std::string msg)
+{
+    return msg + " too.";
+}
+
+JSBIND_GLOBAL()
+{
+    JSBIND_FUNCTION(SayHello);
+}
+
+JSBIND_ADDON(hello) // 注册 AKI 插件名为: hello
+```
+
+调用
+
+<pre class="language-javascript"><code class="lang-javascript"><strong>import aki from 'libentry.so'
+</strong><strong>
+</strong>this.message = aki.SayHello("hello world");
+</code></pre>
+
+比正常接入多了一个so
+
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+开发过程再也不用关心一大堆复杂的定义和类型转换
+
+其他使用参考文档：
+
+[https://gitee.com/openharmony-sig/aki/blob/master/README.md](https://gitee.com/openharmony-sig/aki/blob/master/README.md)
