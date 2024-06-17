@@ -11,6 +11,7 @@
 * [05-源码结构](05-yuan-ma-jie-gou.md)
 * [06-native库](06native-ku.md)
 * [07-NAPI接口](07napi-jie-kou.md)
+* [07-NAPI接口-aki](07napi-jie-kou-aki.md)
 * [08-系统service](08-xi-tong-service.md)
 * [09-HDF](09-hdf.md)
 * [10-启动流程](10-qi-dong-liu-cheng.md)

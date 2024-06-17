@@ -6,7 +6,7 @@ description: 搭建开发环境
 
 ## 获取代码&编译
 
-{% embed url="https://gitee.com/openharmony/docs/blob/master/zh-cn/release-notes/Readme.md" %}
+{% embed url="https://gitee.com/openharmony/docs/blob/master/zh-cn/release-notes/Readme.md" fullWidth="true" %}
 
 上面是每一个release的notes，获取对应版本代码。
 
@@ -20,13 +20,13 @@ description: 搭建开发环境
 
 {% embed url="https://gitee.com/openharmony/docs/blob/master/zh-cn/release-notes/OpenHarmony-v4.1.1-release.md" %}
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 文档有详细的获取代码方式
 
 代码拉取后的结构
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 后续会对源码结构再细化
 
@@ -63,7 +63,7 @@ bash build/prebuilts_download.sh
 ./build.sh --product-name rk3568
 ```
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 编译成功
 
