@@ -18,9 +18,9 @@ description: openharmony操作系统
 
 ### 应用层面
 
-官方文档：以最新发布的版本4.1release为例，文档地址：
+官方文档：以最新发布的版本4.1release为例，
 
-{% embed url="https://docs.openharmony.cn/pages/v4.1/zh-cn/application-dev/application-dev-guide.md" %}
+文档地址：[https://docs.openharmony.cn/pages/v4.1/zh-cn/application-dev/application-dev-guide.md](https://docs.openharmony.cn/pages/v4.1/zh-cn/application-dev/application-dev-guide.md)
 
 <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

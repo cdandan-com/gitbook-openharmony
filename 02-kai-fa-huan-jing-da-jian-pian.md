@@ -6,7 +6,7 @@ description: 搭建开发环境
 
 ## 获取代码&编译
 
-{% embed url="https://gitee.com/openharmony/docs/blob/master/zh-cn/release-notes/Readme.md" fullWidth="true" %}
+文档地址：[https://gitee.com/openharmony/docs/blob/master/zh-cn/release-notes/Readme.md](https://gitee.com/openharmony/docs/blob/master/zh-cn/release-notes/Readme.md)
 
 上面是每一个release的notes，获取对应版本代码。
 
@@ -16,9 +16,11 @@ description: 搭建开发环境
 
 ### 代码拉取
 
-{% embed url="https://gitee.com/openharmony/docs/blob/master/zh-cn/device-dev/quick-start/quickstart-pkg-sourcecode.md" %}
+文档地址：[https://gitee.com/openharmony/docs/blob/master/zh-cn/device-dev/quick-start/quickstart-pkg-sourcecode.md](https://gitee.com/openharmony/docs/blob/master/zh-cn/device-dev/quick-start/quickstart-pkg-sourcecode.md)
 
-{% embed url="https://gitee.com/openharmony/docs/blob/master/zh-cn/release-notes/OpenHarmony-v4.1.1-release.md" %}
+
+
+tag版本地址：[https://gitee.com/openharmony/docs/blob/master/zh-cn/release-notes/OpenHarmony-v4.1.1-release.md](https://gitee.com/openharmony/docs/blob/master/zh-cn/release-notes/OpenHarmony-v4.1.1-release.md)
 
 <figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -69,7 +71,9 @@ bash build/prebuilts_download.sh
 
 ## 使用docker方式编译
 
-{% embed url="https://gitee.com/openharmony/docs/blob/master/zh-cn/device-dev/get-code/gettools-acquire.md" %}
+文档地址：[https://gitee.com/openharmony/docs/blob/master/zh-cn/device-dev/get-code/gettools-acquire.md](https://gitee.com/openharmony/docs/blob/master/zh-cn/device-dev/get-code/gettools-acquire.md)
+
+
 
 其他和正常使用一样
 

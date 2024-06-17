@@ -58,9 +58,7 @@ lycium是一款协助开发者通过shell语言实现C/C++三方库快速交叉�
 
 <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-链接：
-
-{% embed url="https://gitee.com/openharmony-sig/tpc_c_cplusplus/blob/master/lycium/README.md" %}
+链接：[https://gitee.com/openharmony-sig/tpc\_c\_cplusplus/blob/master/lycium/README.md](https://gitee.com/openharmony-sig/tpc\_c\_cplusplus/blob/master/lycium/README.md)
 
 lycium是一个编译环境自行搭建的也是一个非常麻烦的事情。
 
