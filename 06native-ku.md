@@ -16,7 +16,7 @@ description: native开发&第三方库的使用
 
 最简单结构
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 就是常见的cmake结构，使用CMakeLists.txt来做编译
 

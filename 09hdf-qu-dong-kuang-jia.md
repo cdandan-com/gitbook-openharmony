@@ -16,9 +16,27 @@ OpenHarmony驱动框架采用主从架构设计模式，围绕着框架、模型
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-## 使用
-
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+HDF驱动架构主要组成部分：
+
+HDI（Hardware Device Interface，硬件设备统一接口）层：通过规范化的设备接口标准，为系统提供统一、稳定的硬件设备操作接口。
+
+HDF驱动框架：提供统一的硬件资源管理、驱动加载管理、设备节点管理、设备电源管理以及驱动服务模型等功能，需要包含设备管理、服务管理、DeviceHost、PnPManager等模块。
+
+统一的配置界面：支持硬件资源的抽象描述，屏蔽硬件差异，可以支撑开发者开发出与配置信息不绑定的通用驱动代码，提升开发及迁移效率，并可通过HC-Gen等工具快捷生成配置文件。
+
+操作系统抽象层（OSAL，Operating System Abstraction Layer）：提供统一封装的内核操作相关接口，屏蔽不同系统操作差异，包含内存、锁、线程、信号量等接口。
+
+平台驱动：为外设驱动提供Board硬件（如：I2C/SPI/UART总线等平台资源）操作统一接口，同时对Board硬件操作进行统一的适配接口抽象以便于不同平台迁移。
+
+外设驱动模型：面向外设驱动，提供常见的驱动抽象模型，主要达成两个目的，提供标准化的器件驱动，开发者无需独立开发，通过配置即可完成驱动的部署；提供驱动模型抽象，屏蔽驱动与不同系统组件间的交互，使得驱动更具备通用性。
+
+## 使用开发流程
+
+文档：[https://docs.openharmony.cn/pages/v4.1/zh-cn/device-dev/driver/driver-hdf-manage.md](https://docs.openharmony.cn/pages/v4.1/zh-cn/device-dev/driver/driver-hdf-manage.md)
+
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 详细解析
 

@@ -22,7 +22,7 @@ description: openharmony操作系统
 
 文档地址：[https://docs.openharmony.cn/pages/v4.1/zh-cn/application-dev/application-dev-guide.md](https://docs.openharmony.cn/pages/v4.1/zh-cn/application-dev/application-dev-guide.md)
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 设备系统层面
 
@@ -80,7 +80,7 @@ samgr组件是OpenHarmony的核心组件，提供OpenHarmony系统服务启动�
 
 框架图
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 驱动子系统采用C面向对象编程模型构建，通过平台解耦、内核解耦，兼容不同内核，提供了归一化的驱动平台底座，旨在为开发者提供更精准、更高效的开发环境，力求做到一次开发，多系统部署。
 
