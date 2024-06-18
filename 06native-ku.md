@@ -10,13 +10,13 @@ description: native开发&第三方库的使用
 
 ## native开发
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 使用应用开发工具建立一个C++工程。
 
 最简单结构
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 就是常见的cmake结构，使用CMakeLists.txt来做编译
 
@@ -30,7 +30,7 @@ target_link_libraries(entry PUBLIC libace_napi.z.so)
 
 怎么引入更多系统库呢？大家可以打开这里：
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://docs.openharmony.cn/pages/v4.1/zh-cn/application-dev/napi/ndk-development-overview.md" %}
 
@@ -44,7 +44,7 @@ target_link_libraries(entry PUBLIC libace_napi.z.so)
 
 
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 最根本的还是使用交叉编译链。
 
