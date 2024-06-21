@@ -39,7 +39,7 @@ description: >-
 
 #### 架构期：
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 现在回想起来才知道，架构的重要性，这个是openharmony的总架构，记得从我接触openharmony开始，这个架构图应该就没有几乎变过，一路演进都是依照这个来指导前行。
 

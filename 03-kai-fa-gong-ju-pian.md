@@ -12,7 +12,7 @@ description: 工欲善其事必先利其器
 
 
 
-<figure><img src=".gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 链接：[https://gitee.com/openharmony/docs/blob/master/zh-cn/release-notes/OpenHarmony-v4.1.1-release.md](https://gitee.com/openharmony/docs/blob/master/zh-cn/release-notes/OpenHarmony-v4.1.1-release.md)
 
@@ -30,7 +30,7 @@ description: 工欲善其事必先利其器
 
 远程连接开发：[https://gitee.com/openharmony/docs/blob/master/zh-cn/device-dev/quick-start/quickstart-ide-env-remote.md](https://gitee.com/openharmony/docs/blob/master/zh-cn/device-dev/quick-start/quickstart-ide-env-remote.md)
 
-<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 官方推荐使用DevEco Device Tool，做系统开发的话，这个可以不需要，但可以使用，部分工具还是挺好用的，也是基于vscode的一个插件。
 
@@ -42,27 +42,27 @@ description: 工欲善其事必先利其器
 
 C++开发必备
 
-<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Git Graph
 
 因为repo管理是超大型项目的一个总集管理，此插件便于我们查看不同git仓库的历史
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Remote - SSH
 
 远程连接，必要插件
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### GN
 
 Edit GN files in Visual Studio Code，高亮GN脚本文件，作用不大，但更直观的看GN脚本
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
