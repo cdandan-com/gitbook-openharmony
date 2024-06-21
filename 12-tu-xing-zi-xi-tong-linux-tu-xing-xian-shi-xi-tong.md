@@ -8,6 +8,10 @@ description: 图形图画渲染架构，OpenHarmony是Linux平台图形图画演
 
 参考：[https://www.cnblogs.com/arnoldlu/p/18077391](https://www.cnblogs.com/arnoldlu/p/18077391)
 
+Linux视窗架构
+
+<figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+
 应用/游戏、图形框架、图形加速引擎、内核驱动、硬件之间的关系
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
