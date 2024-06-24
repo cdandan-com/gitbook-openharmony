@@ -10,7 +10,7 @@ DisPlay：屏幕属性提供管理显示设备的一些基础能力，包括获�
 
 ## 架构
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## 演变
 
@@ -22,25 +22,25 @@ DisPlay：屏幕属性提供管理显示设备的一些基础能力，包括获�
 
 1985年微软首次发布 Windows 系统：Windows 1.0。这个版本基本上就是 MS-DOS 系统一个简单的图层，基于字符的 MS-DOS 系统是那个时候大多数电脑上的操作系统。Windows 1.0 没有得到广泛应用。
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Windows 2.0
 
 1987年，微软发布 Windows 2.0，也是运行微软文字处理软件 Word 和表格处理软件 Excel 的第一个版本。该版本引发了当年苹果控告微软剽窃其 Macintosh 和 Lisa 部分设计元素的官司，但最终苹果败诉。
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Windows 3.0**
 
 Windows 3.0 于 1990 年发布。该版本褪去了大部分 MS-DOS 系统的东西，加入了大量图形操作界面。毫无意外，它获得了巨大成功，成为第一个真正广泛流行的系统版本。从外观上看，与我们如今使用的 Windows 系统已经很接近。
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Windows 3.1**
 
 随着 Windows 3.0 版本的成功，微软紧接着在 1991 年推出 Windows 3.1。它真正成为上世纪 90 年代初各种 IBM 兼容机的标准配置系统，也是最后一个看起来还略带 MS-DOS 气息的系统版本。
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Windows 95**
 

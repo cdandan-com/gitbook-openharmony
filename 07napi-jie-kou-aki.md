@@ -21,7 +21,7 @@ AKI (Alpha Kernel Interacting) 是一款边界性编程体验友好的ArkTs FFI�
 3. 支持JS & C/C++互调；
 4. 支持与Node-API嵌套使用；
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 使用
 
