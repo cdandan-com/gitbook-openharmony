@@ -14,9 +14,9 @@ OpenHarmony 系统 HDF 驱动框架采用 C 语言面向对象编程模型构建
 
 OpenHarmony驱动框架采用主从架构设计模式，围绕着框架、模型、能力库和工具四个维度能力展开构建。
 
-<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 HDF驱动架构主要组成部分：
 
@@ -36,7 +36,7 @@ HDF驱动框架：提供统一的硬件资源管理、驱动加载管理、设�
 
 文档：[https://docs.openharmony.cn/pages/v4.1/zh-cn/device-dev/driver/driver-hdf-manage.md](https://docs.openharmony.cn/pages/v4.1/zh-cn/device-dev/driver/driver-hdf-manage.md)
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 详细解析
 
@@ -138,5 +138,5 @@ peripheral HDI接口实现
 
 ### 体系结构
 
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

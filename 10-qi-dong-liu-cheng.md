@@ -22,15 +22,15 @@ SOC启动时都由bootloader来加载镜像，具体过程包括以下几个大�
 
 分区说明
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 引导启动
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 启动system
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 启动参数
 
@@ -50,7 +50,7 @@ earlycon=uart8250,mmio32,0xfe660000 root=PARTUUID=614e0000-0000 rw rootwait root
 
 详细介绍init进程启动后，从读取required fstab信息到创建required分区块设备节点再到最后完成required分区挂载
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 引导启动配置文件 <a href="#yin-dao-qi-dong-pei-zhi-wen-jian" id="yin-dao-qi-dong-pei-zhi-wen-jian"></a>
 
