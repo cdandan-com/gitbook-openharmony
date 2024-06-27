@@ -46,3 +46,7 @@ SystemAbility实现一般采用XXX.cfg + profile.json + libXXX.z.so的方式由i
 
 ## 服务管理原理解析
 
+
+
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>
+

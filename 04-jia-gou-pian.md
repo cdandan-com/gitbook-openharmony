@@ -70,7 +70,7 @@ description: 子系统服务架构的架构流程，一点点心得。
 
 
 
-
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>
 
 
 

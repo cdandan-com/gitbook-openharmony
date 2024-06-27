@@ -67,3 +67,5 @@ Xiaomi HyperOS 的技术体系下，Vela 定位为轻载硬件资源下，使用
 <figure><img src=".gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 OpenHarmony的架构思路也是这样，统一型操作系统，跨设备分布式操作系统。从内核、框架、应用做了整体型的设计，更重要的是开源，让更多人都可以来共建、开发、消费这种新一代的操作系统。
+
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>

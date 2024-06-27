@@ -82,6 +82,8 @@ JSBIND_ADDON(hello) // 注册 AKI 插件名为: hello
 
 开发过程再也不用关心一大堆复杂的定义和类型转换
 
-其他使用参考文档：
+其他使用参考文档：[https://gitee.com/openharmony-sig/aki/blob/master/README.md](https://gitee.com/openharmony-sig/aki/blob/master/README.md)
 
-[https://gitee.com/openharmony-sig/aki/blob/master/README.md](https://gitee.com/openharmony-sig/aki/blob/master/README.md)
+
+
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>

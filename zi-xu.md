@@ -16,3 +16,5 @@ description: 个人的一点感想
 
 原来我也可以尽一份力，发那么一点光。
 
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>
+

@@ -32,7 +32,10 @@ sig组织：[https://gitee.com/openharmony-sig](https://gitee.com/openharmony-si
 
 作者：XXY
 
-邮箱：xuxiaoyuan@zhikaihong.com
+邮箱：18899768046@163.com
 
 简介：openharmony社区子系统共建人员
 
+
+
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>

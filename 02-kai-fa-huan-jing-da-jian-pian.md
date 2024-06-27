@@ -77,5 +77,5 @@ bash build/prebuilts_download.sh
 
 其他和正常使用一样
 
-
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>
 

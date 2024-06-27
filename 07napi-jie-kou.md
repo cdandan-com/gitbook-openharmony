@@ -240,3 +240,5 @@ NAPI_EXTERN napi_status napi_define_properties(napi_env env,
 ```
 
 **napi\_define\_properties()** 方法内部循环遍历传递进来的每一个 `napi_property_descriptor`，把每一个 `napi_property_descriptor` 转化成 `NapiPropertyDescriptor` 的 `property` 并调用 **NapiDefineProperty()** 方法完成 JS 方法和 C++方法的映射。
+
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>
