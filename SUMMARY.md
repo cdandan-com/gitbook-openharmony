@@ -3,6 +3,7 @@
 * [主页](README.md)
 * [自序](zi-xu.md)
 * [绪论](xu-lun.md)
+* [操作系统](cao-zuo-xi-tong.md)
 * [目录](mu-lu.md)
 * [01-如何学习openharmony？](01-ru-he-xue-xi-openharmony.md)
 * [02-开发环境搭建篇](02-kai-fa-huan-jing-da-jian-pian.md)
