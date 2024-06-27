@@ -60,3 +60,4 @@ Mesa内部分为Graphics API层和用户空间驱动层。Graphics API层实现�
 
 <figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>

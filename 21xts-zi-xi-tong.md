@@ -24,3 +24,7 @@ tools，存放acts相关测试用例开发框架。
 ```
 
 参考文档：[https://gitee.com/openharmony/docs/blob/master/zh-cn/readme/XTS%E5%AD%90%E7%B3%BB%E7%BB%9F.md](https://gitee.com/openharmony/docs/blob/master/zh-cn/readme/XTS%E5%AD%90%E7%B3%BB%E7%BB%9F.md)
+
+
+
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>

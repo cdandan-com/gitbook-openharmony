@@ -44,3 +44,4 @@ libdrm的作用就是将内核功能封装成 一系列的open/close/ioctl 等�
 
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>

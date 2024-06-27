@@ -8,3 +8,4 @@
 
 <figure><img src=".gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>

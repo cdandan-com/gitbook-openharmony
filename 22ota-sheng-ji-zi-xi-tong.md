@@ -8,3 +8,4 @@ OTA（Over the Air）提供对设备远程升级的能力。升级子系统对�
 
 <figure><img src=".gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>

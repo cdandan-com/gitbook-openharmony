@@ -32,3 +32,5 @@ Binder的一次拷贝过程，从数据发送方的User Space通过copy\_from\_u
 
 在内核空间划分出了一块物理内存，内核空间和接收方的虚拟内存都映射在这块物理内存上，所以不需要第二次拷贝。而共享内存的0次拷贝通信，是通过发送和接收方共享同一块物理内存来实现。
 
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>
+

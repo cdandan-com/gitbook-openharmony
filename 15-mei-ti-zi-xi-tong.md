@@ -51,3 +51,4 @@ gstreamer跟ffmpeg一样，也是一个媒体框架，可以实现采集，编�
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>

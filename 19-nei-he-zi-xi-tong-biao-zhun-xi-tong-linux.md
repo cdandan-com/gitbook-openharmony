@@ -30,3 +30,4 @@ Linux是一个单体内核，支持真正的抢占式多任务处理（于用户
 
 <figure><img src=".gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>

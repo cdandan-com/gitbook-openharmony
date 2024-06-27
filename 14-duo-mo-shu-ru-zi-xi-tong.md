@@ -129,3 +129,4 @@ EVENT 分为EV\_ABS，EV\_KEY，EV\_SYN 三种类型
 
     `TRACKING_ID` 标示一个触点的整个生命周期 \[5]。`TRACKING_ID` 的数值范围应该足够大，从而保证一段时间类的每一个触点标示都是唯一的。对于类型 B 设备来说，这个事件是由 INPUT 子系统核心处理，驱动应该使用 `input_mt_report_slot_state()` 函数。
 
+<figure><img src=".gitbook/assets/1719478519308.png" alt="" width="177"><figcaption></figcaption></figure>
