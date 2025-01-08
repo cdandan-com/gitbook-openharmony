@@ -31,6 +31,7 @@
 * [19-内核子系统-轻量系统](19-nei-he-zi-xi-tong-qing-liang-xi-tong.md)
 * [19-内核子系统-小型系统](19-nei-he-zi-xi-tong-xiao-xing-xi-tong.md)
 * [19-内核子系统-标准系统Linux](19-nei-he-zi-xi-tong-biao-zhun-xi-tong-linux.md)
+* [19-内核子系统-Linux内核架构](19-nei-he-zi-xi-tong-linux-nei-he-jia-gou.md)
 * [20-DFX子系统](20dfx-zi-xi-tong.md)
 * [21-XTS子系统](21xts-zi-xi-tong.md)
 * [22-OTA升级子系统](22ota-sheng-ji-zi-xi-tong.md)
