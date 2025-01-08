@@ -21,6 +21,7 @@
 * [12-图形子系统-Linux图形显示系统](12-tu-xing-zi-xi-tong-linux-tu-xing-xian-shi-xi-tong.md)
 * [12-图形子系统-Linux图形显示系统之DRM](12-tu-xing-zi-xi-tong-linux-tu-xing-xian-shi-xi-tong-zhi-drm.md)
 * [12-图形子系统-openharmony](12-tu-xing-zi-xi-tong-openharmony.md)
+* [12-图形子系统-GPU适配](12-tu-xing-zi-xi-tong-gpu-shi-pei.md)
 * [13-窗口子系统](13-chuang-kou-zi-xi-tong.md)
 * [14-多模输入子系统](14-duo-mo-shu-ru-zi-xi-tong.md)
 * [15-媒体子系统](15-mei-ti-zi-xi-tong.md)
