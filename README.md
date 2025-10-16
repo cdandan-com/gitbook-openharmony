@@ -20,13 +20,13 @@ OpenHarmony是由开放原子开源基金会（OpenAtom Foundation）孵化及�
 
 源代码仓：[https://gitcode.com/openharmony](https://gitcode.com/openharmony)
 
-版本notes：[https://](https://gitee.com/openharmony/docs/tree/master/zh-cn/release-notes)[gitcode](https://gitcode.com/openharmony)[.com/openharmony/docs/tree/master/zh-cn/release-notes](https://gitee.com/openharmony/docs/tree/master/zh-cn/release-notes)
+版本notes：[https://](https://gitee.com/openharmony/docs/tree/master/zh-cn/release-notes)[gitcode](https://gitcode.com/openharmony)[.com/openharmony/docs/tree/master/zh-cn/release-notes](https://gitcode.com/openharmony/docs/tree/master/zh-cn/release-notes)
 
 OpenHarmony文档：[https://](https://gitee.com/openharmony/docs)[gitcode](https://gitcode.com/openharmony)[.com/openharmony/docs](https://gitee.com/openharmony/docs)
 
 sig组织：[https://](https://gitee.com/openharmony-sig)[gitcode](https://gitcode.com/openharmony)[.com/openharmony-sig](https://gitee.com/openharmony-sig)
 
-三方库组织：[https://](https://gitee.com/openharmony-tpc)[gitcode](https://gitcode.com/openharmony)[.com/openharmony-tpc](https://gitee.com/openharmony-tpc)
+三方库组织：[https://](https://gitee.com/openharmony-tpc)[gitcode](https://gitcode.com/openharmony)[.com/openharmony-tpc](https://gitcode.com/openharmony-tpc)
 
 
 
