@@ -18,15 +18,15 @@ OpenHarmony是由开放原子开源基金会（OpenAtom Foundation）孵化及�
 
 开源社区：[https://www.openharmony.cn/](https://www.openharmony.cn/)
 
-源代码仓：[https://openharmony.gitee.com/](https://openharmony.gitee.com/)
+源代码仓：[https://gitcode.com/openharmony](https://gitcode.com/openharmony)
 
-版本notes：[https://gitee.com/openharmony/docs/tree/master/zh-cn/release-notes](https://gitee.com/openharmony/docs/tree/master/zh-cn/release-notes)
+版本notes：[https://](https://gitee.com/openharmony/docs/tree/master/zh-cn/release-notes)[gitcode](https://gitcode.com/openharmony)[.com/openharmony/docs/tree/master/zh-cn/release-notes](https://gitee.com/openharmony/docs/tree/master/zh-cn/release-notes)
 
-OpenHarmony文档：[https://gitee.com/openharmony/docs](https://gitee.com/openharmony/docs)
+OpenHarmony文档：[https://](https://gitee.com/openharmony/docs)[gitcode](https://gitcode.com/openharmony)[.com/openharmony/docs](https://gitee.com/openharmony/docs)
 
-sig组织：[https://gitee.com/openharmony-sig](https://gitee.com/openharmony-sig)
+sig组织：[https://](https://gitee.com/openharmony-sig)[gitcode](https://gitcode.com/openharmony)[.com/openharmony-sig](https://gitee.com/openharmony-sig)
 
-三方库组织：[https://gitee.com/openharmony-tpc](https://gitee.com/openharmony-tpc)
+三方库组织：[https://](https://gitee.com/openharmony-tpc)[gitcode](https://gitcode.com/openharmony)[.com/openharmony-tpc](https://gitee.com/openharmony-tpc)
 
 
 
